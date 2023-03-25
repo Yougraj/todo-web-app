@@ -90,7 +90,6 @@ ordered-set==4.1.0
 orjson==3.8.6
 packaging==23.0
 pacman-mirrors==4.23.2
-pandas==1.5.3
 pathvalidate==2.5.2
 patool==1.12
 pefile==2022.5.30
