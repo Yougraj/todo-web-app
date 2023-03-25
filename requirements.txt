@@ -63,6 +63,7 @@ Js2Py==0.72
 jsonschema==4.17.3
 keyman-config==13.0.0.202010241027
 lensfun==0.3.3
+LibAppArmor==3.1.2
 libfdt==1.6.1
 libtorrent==2.0.8
 lit==15.0.7.dev0
